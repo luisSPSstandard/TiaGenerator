@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\TIAgenerator.exe.config
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\TIAgenerator.exe
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\TIAgenerator.pdb
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Siemens.Engineering.dll
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Siemens.Engineering.Hmi.dll
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Siemens.Engineering.xml
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Siemens.Engineering.Hmi.xml
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.csproj.CopyComplete
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.exe
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\obj\Debug\TIAgenerator.pdb
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\TIAgenerator\TIAgenerator\bin\Debug\Newtonsoft.Json.xml

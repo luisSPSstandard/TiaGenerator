@@ -1,0 +1,46 @@
+{
+   "name": "Main",
+  "type": 1,
+  "subfolderblocks": [
+    {
+
+      "name": "Parameter",
+      "type": 1,
+      "subfolderblocks": [
+
+        {
+          "name": "Sub-Parameter",
+          "type": 1,
+          "subfolderblocks": []
+
+        },
+        {
+          "name": "Configuration",
+          "type": 1,
+          "subfolderblocks": [
+
+            {
+              "name": "Static Config",
+              "type": 1,
+              "subfolderblocks": []
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    },
+    {
+
+      "name": "Antriebe",
+      "type": 1,
+      "subfolderblocks": [],
+    }
+
+  ]
+
+
+}
